@@ -1,2 +1,2 @@
 # blogCafe
-Web page made with pure HTML and CSS
+Web page made with HTML and CSS
